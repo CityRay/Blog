@@ -1,4 +1,4 @@
 # CityRay Personal Blog
 
-[For record my code ...](https://github.com/CityRay/Blog/issues)
+[For record snippet code or something ...](https://github.com/CityRay/Blog/issues)
 
