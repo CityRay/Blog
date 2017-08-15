@@ -7,5 +7,6 @@ For record web development & snippet code or something ...
 - [[JS] Intro ES6](https://github.com/CityRay/Blog/issues/14)
 - [[node] JS Development Environment](https://github.com/CityRay/Blog/issues/13)
 - [[JS] RxJS 點點紀錄](https://github.com/CityRay/Blog/issues/12)
+- [[JS] Javascript stack / event loop / callback queue](https://github.com/CityRay/Blog/issues/20)
 
 [more...](https://github.com/CityRay/Blog/issues)
